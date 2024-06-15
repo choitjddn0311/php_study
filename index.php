@@ -7,7 +7,7 @@
 </head>
 <body>
     <?php
-        echo date('Y-m-d H:i:s'); //이 코드는 year day month 를 불러오는 php코드입니다
+        echo date('Y-m-d H:i:s'); //이 코드는 year day month Hour mintue second 를 불러오는 php코드입니다
     ?>
 </body>
-</html>
+</htmlq>
