@@ -16,7 +16,7 @@
     ?>
     <h2>String length function</h2>
     <?php
-        echo strlen("Hello world"); 
+        echo strlen("Hello world"); //문자의 길이를 재주는 내장함수
     ?>
 </body>
 </html>
