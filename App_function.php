@@ -8,9 +8,17 @@
 <body>
     <h1>WEB</h1>
     <ol>
-        <li><a href="App_function.php?id=html"></a></li>
-        <li><a href="App_function.php?id=css"></a></li>
-        <li><a href="App_function.php?id=javascript"></a></li>
+        <li><a href="App_function.php?id=html">HTML</a></li>
+        <li><a href="App_function.php?id=css">CSS</a></li>
+        <li><a href="App_function.php?id=javascript">JavaScript</a></li>
     </ol>
+    <h2>
+        <?php
+            echo $_GET['id'];
+        ?>
+    </h2>
+    <?php
+    
+    ?>
 </body>
 </html>
